@@ -1,1 +1,1 @@
-# Maksym-pyMDK
+# MaksymMDK
